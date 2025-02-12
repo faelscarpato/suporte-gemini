@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta Tabela FIPE</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/fipe.css"> <!-- Estilo específico para a página FIPE -->
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo-container">
+                <a href="index.html">
+                    <img src="img/logo.png" alt="Logotipo da Central de Suporte" class="logo">
+                </a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Suporte - Motos</a></li>
+                    <li><a href="suporte-carros.html">Suporte - Carros</a></li>
+                    <li><a href="fipe.html">Tabela FIPE</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="fipe-consulta">
+            <label for="vehicleType">Tipo de Veículo:</label>
+            <select id="vehicleType">
+                <option value="cars">Carros</option>
+                <option value="motorcycles">Motos</option>
+                <option value="trucks">Caminhões</option>
+            </select>
+
+            <label for="reference">Mês de Referência:</label>
+            <select id="reference">
+                <!-- As opções serão preenchidas com JavaScript -->
+            </select>
+
+            <label for="brand">Marca:</label>
+            <select id="brand">
+                <option value="">Selecione a Marca</option>
+                <!-- As opções serão preenchidas com JavaScript -->
+            </select>
+
+            <label for="model">Modelo:</label>
+            <select id="model">
+                <option value="">Selecione o Modelo</option>
+                <!-- As opções serão preenchidas com JavaScript -->
+            </select>
+
+            <label for="year">Ano:</label>
+            <select id="year">
+                <option value="">Selecione o Ano</option>
+                <!-- As opções serão preenchidas com JavaScript -->
+            </select>
+
+            <button id="consultar">Consultar Preço</button>
+        </section>
+
+        <section id="fipe-resultados" style="display: none;">
+            <h2>Resultado da Consulta</h2>
+            <div id="fipe-detalhes">
+                <!-- Detalhes do veículo aparecerão aqui -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Consulta Tabela FIPE</p>
+    </footer>
+
+    <script src="js/fipe.js"></script> <!-- Arquivo JavaScript para a página FIPE -->
+</body>
+</html>

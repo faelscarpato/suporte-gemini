@@ -1,0 +1,85 @@
+{
+    "Honda": {
+      "models": [
+        "CG 160 Fan", "CG 160 Titan", "CG 160 Start", "CG 160 Cargo",
+        "Biz 110i", "Biz 125",
+        "Pop 110i",
+        "PCX 150", "PCX 160",
+        "SH 150i", "SH 300i",
+        "ADV",
+        "Elite 125",
+        "CB 250F Twister", "CB 300F Twister",
+        "CB 500F", "CB 500X", "CBR 500R",
+        "CB 650R", "CBR 650R",
+        "NC 750X",
+        "CRF 1100L Africa Twin", "Africa Twin Adventure Sports",
+        "XRE 300", "XRE 300 Adventure", "XRE 190",
+        "CRF 250F", "CRF 450R",
+        "Gold Wing",
+        "CBR 1000RR-R Fireblade SP"
+      ]
+    },
+    "Yamaha": {
+      "models": [
+        "Factor 125i", "Factor 150",
+        "Fazer 150", "Fazer 250",
+        "Crosser 150",
+        "Lander 250",
+        "MT-03", "MT-07", "MT-09", "MT-10",
+        "YZF-R3", "YZF-R6", "YZF-R1", "YZF-R1M",
+        "NMAX 160",
+        "XMAX 250",
+        "Neo 125",
+          "Flou",
+        "Tracer 900 GT", "Tracer 9 GT+",
+        "Ténéré 700",
+        "Ténéré 250"
+  
+      ]
+    },
+    "Kawasaki":{
+       "models": [
+        "Ninja 300","Ninja 400", "Ninja 650", "Ninja 1000SX", "Ninja ZX-6R", "Ninja ZX-10R", "Ninja H2", "Ninja H2R",
+        "Z300", "Z400", "Z650", "Z900", "Z1000", "Z1000 R Edition",
+        "Versys-X 300", "Versys 650", "Versys 1000",
+         "Vulcan S"
+  
+    ]
+  
+    },
+    "BMW":{
+      "models":[
+      "G 310 R", "G 310 GS",
+      "F 750 GS", "F 850 GS", "F 850 GS Adventure", "F 900 R", "F 900 XR",
+      "S 1000 R", "S 1000 RR", "S 1000 XR",
+      "R 1250 GS", "R 1250 GS Adventure", "R 1250 R", "R 1250 RS", "R 1250 RT",
+      "R 18", "R 18 Classic", "R 18 B", "R 18 Transcontinental",
+      "CE 04"
+      ]
+  
+    },
+    "Triumph":{
+       "models":[
+         "Tiger Sport 660", "Tiger 900", "Tiger 1200", "Tiger 800 (descontinuada, mas relevante para os anos da lista)",
+          "Street Triple 765 RS", "Street Triple 765 R", "Street Triple 675 (descontinuada, mas relevante)",
+         "Speed Triple 1200 RR", "Speed Triple 1200 RS",
+          "Trident 660",
+         "Rocket 3 R","Rocket 3 GT",
+        "Bonneville T100", "Bonneville T120", "Bonneville Bobber", "Bonneville Speedmaster",
+         "Scrambler 900", "Scrambler 1200 XE", "Scrambler 1200 XC"," Thruxton RS"
+  
+    ]
+    },
+  
+      "Suzuki":{
+       "models":[ "GSX-S750","DR200S","GSX250R","GSX-R1000","GSX-R1000R","SV650","V-Strom 650","V-Strom 1050","V-Strom 1000"
+  
+  
+    ]
+      },
+    "outros":{
+        "models":[
+      "Royal Enfield","Haojue","Dafra","Ducati"
+        ]
+    }
+  }

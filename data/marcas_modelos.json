@@ -1,0 +1,181 @@
+{
+    "Acura": {
+      "models": [
+        "Integra", "TLX", "RDX", "MDX", "NSX", "ILX", "ZDX"
+      ]
+    },
+    "Alfa Romeo": {
+      "models": [
+        "Giulia", "Stelvio", "Tonale", "4C", "Spider"
+      ]
+    },
+    "Aston Martin": {
+      "models": [
+        "Vantage", "DB11", "DBS", "DBX", "Valhalla", "Valour"
+      ]
+    },
+    "Audi": {
+      "models": [
+        "A1", "A3", "A4", "A5", "A6", "A7", "A8", "Q2", "Q3", "Q5", "Q7", "Q8", "e-tron GT", "RS e-tron GT", "R8", "TT"
+      ]
+    },
+    "Bentley": {
+      "models": [
+        "Continental GT", "Flying Spur", "Bentayga", "Mulsanne"
+      ]
+    },
+    "BMW": {
+      "models": [
+        "Série 1", "Série 2", "Série 3", "Série 4", "Série 5", "Série 6", "Série 7", "Série 8", "X1", "X2", "X3", "X4", "X5", "X6", "X7", "iX", "i4", "i7", "Z4"
+          ]
+    },
+    "Bugatti": {
+      "models": [
+        "Chiron", "Divo", "Centodieci", "La Voiture Noire", "Mistral"
+      ]
+    },
+    "Cadillac": {
+      "models": [
+        "CT4", "CT5", "Escalade", "XT4", "XT5", "XT6", "Lyriq"
+      ]
+    },
+    "Chevrolet": {
+      "models": [
+        "150", "210", "3100", "6100", "A-10", "A-20", "Agile", "Astra", "Astro", "Avalanche", "Aveo", "Bel Air", "Beretta", "Blazer", "Bolt", "Bonanza", "C-10", "Série 10", "C-15", "C-20", "C-1414", "C-1416", "Calibra", "Camaro", "Caprice", "Captiva", "Cavalier", "Celebrity", "Celta", "Chevelle", "Chevette", "Chevy 500", "Citation", "Citation IV", "Classic", "Cobalt (2004)", "Cobalt (2011)", "Colorado", "Corsa", "Corsa Pick-up", "Corsa Sedan", "Corsa Wagon", "Corsica", "Corvair", "Corvette", "Corvette C5-R", "Corvette C6.R", "Cruze", "D-10", "Série 20", "El Camino", "Epica", "Equinox", "Evanda", "Express", "Fleetline", "G2X", "Grand Blazer", "HHR", "Impala", "Ipanema", "Kadett", "Lacetti", "Lanos", "Lumina", "Lumina APV", "LUV D-Max", "Malibu", "Marajó", "Meriva", "Montana", "Monte Carlo", "Monza", "Monza (Estados Unidos)", "Niva", "Nomad", "Nova", "Nubira", "Omega", "Omega Suprema", "Onix", "Opala", "Optra", "Orlando", "Prisma", "Geo Prizm", "Rezzo", "S10", "Senator", "Silverado", "Sonic", "Spark", "Spectrum", "Spin", "Sprint", "SSR", "Suburban", "Tacuma", "Tahoe", "Tigra", "Tracker", "TrailBlazer", "Traverse", "Trax", "Uplander", "Vectra", "Vega", "Venture", "Veraneio", "Vivant", "Volt", "Zafira", "Opel Zafira", "Tracker (2021)", "Montana (2023)"
+      ]
+    },
+    "Chrysler": {
+      "models": [
+        "300", "Pacifica", "Voyager", "Airflow"
+      ]
+    },
+    "Citroen": {
+      "models": [
+        "2CV", "Aircross", "Ami", "AX", "Axel", "Berlingo", "BX", "C1", "C3", "C3 Aircross", "C4", "C4 Cactus", "C4 Lounge", "C4 SpaceTourer", "C5", "C6", "C15", "C25", "CX", "Dyane", "DS", "DS5", "GS", "H Van", "Jumper", "Fiat Ducato", "Jumpy", "M35", "Méhari", "Saxo", "SM", "Traction Avant", "Tipo C", "Visa", "Xantia", "XM", "Xsara", "Xsara Picasso", "ZX", "C5 X", "Basalt"
+      ]
+    },
+    "Dodge": {
+      "models": [
+        "Challenger", "Charger", "Durango", "Hornet", "Viper"
+      ]
+    },
+      "Ferrari": {
+      "models": [
+        "296 GTB", "Roma", "SF90 Stradale", "F8 Tributo", "812 GTS", "Purosangue"
+      ]
+    },
+    "Fiat": {
+      "models": [
+        "124", "125", "126", "128", "130", "131", "132", "147", "242", "500", "500 (2007)", "500L", "500X", "600", "850", "1100", "1300", "1400", "1500", "1900", "2000", "Albea", "Argenta", "Argo", "Barchetta", "Brava", "Bravo", "C8", "Campagnola", "Cinquecento", "City", "Coupé", "Croma", "Cronos", "Daily", "Dino", "Doblò", "Ducato", "Duna", "Elba", "60 HP", "Pulse", "Fiorino", "Fiorino (2007)", "Freemont", "Grand Siena", "Grande Punto", "Idea", "L3/35", "Linea", "M14/41", "Marea", "Marea Weekend", "Marengo", "Mio", "Mobi", "Multipla", "Nuova Panda", "Oggi", "Ottimo", "Palio", "Palio Elétrico", "Phylla", "Palio Weekend", "Panda", "Panda 4x4", "Panorama", "Prêmio", "Punto", "Regata", "Scudo", "Sedici", "Seicento", "Siena", "Spazio", "Stilo", "Strada", "Tempra", "Tipo", "Topolino", "Toro", "Ulysse", "Uno", "Viaggio", "Weekend", "X1/9", "Zero"
+      ]
+    },
+    "Ford": {
+      "models": [
+        "7Y", "1941", "Activa", "Aerostar", "Anglia", "Aspire", "Bantam", "Belina", "Bronco", "Bronco II", "C-Max", "C-Max Energi", "Capri", "Cargo", "Comuta", "Consul", "Contour", "Corcel", "Corsair", "Cortina", "Cougar", "Country Squire", "Courier", "Crown Victoria", "Crown Victoria Police Interceptor", "CX", "Del Rey", "E-Series", "Econoline", "EcoSport", "Edge", "Eifel", "Elite", "Escape", "Escort (Brasil)", "Escort (Europa)", "Escort (América do Norte)", "Excursion", "EXP", "Expedition", "Explorer", "F-250", "F-1000", "F-Series", "Fairlane (América do Norte)", "Fairlane (Austrália)", "Falcon", "Festiva", "Fiesta", "Fiesta Mark 3", "Fiesta Sedan", "Five Hundred", "Focus", "Focus RS WRC", "Everest", "F-75", "GT40", "Maverick (2022)", "Forty-Nine", "Freestar", "Freestyle", "Fusion", "Fusion Hybrid", "Futura", "Galaxie", "Galaxy", "Granada (América do Norte)", "Granada (Europa)", "GT", "GT90", "Ikon", "Indigo", "Ka", "Köln", "Kuga", "Laser", "LTD (América do Norte)", "LTD (Austrália)", "LTD Crown Victoria", "Mainline", "Maverick", "Meteor", "Model 48", "Model A", "Model A (1903)", "Model A (1927)", "Model B (1904)", "Model C", "Model F", "Model K", "Model N", "Model R", "Model S", "Model T", "Model TT", "Model U", "Mondeo", "Mustang", "Mustang Shelby GT500", "Orion", "Pampa", "Parklane", "Pilot", "Pinto", "Popular", "Prefect", "Probe", "Puma", "Quadriciclo de Ford", "Ranch Wagon", "Ranchero", "Ranger", "Rheinland", "Royale", "Rural Willys", "S-MAX", "Scorpio", "Shelby GR-1", "Sierra", "Squire", "Taunus", "Taurus", "Taurus (2008)", "Taurus X", "Telstar", "Tempo", "Territory", "TH!NK", "Thunderbird", "Torino", "Transit", "Transit Connect", "Vedette", "Verona", "Versailles", "Windstar", "Zephyr"
+      ]
+    },
+     "Gurgel": {
+      "models": [
+        "X-12", "X-15", "Tocantins", "Carajás"
+      ]},
+    "Honda": {
+      "models": [
+        "1300", "Accord", "Capa", "City", "City Turbo", "Civic", "CR-V", "CR-X", "CR-Z", "Crosstour", "Fit", "Freed", "HR-V", "Insight", "Legend", "Life Dunk", "Logo", "Mobilio", "Motor H", "NSX", "Passport", "S500", "Stream", "Vezel", "WR-V", "Zest", "e:Ny1"
+      ]
+    },
+    "Hyundai": {
+      "models": [
+        "Accent", "Atos", "Atos Prime", "BlueOn", "Creta", "Dynasty", "Elantra", "Entourage", "Eon", "Equus", "Excel", "Galloper", "Genesis", "Genesis Concept", "Genesis Coupe", "Getz", "H100", "HB20", "HB20S", "HED-5", "HR", "i10", "i20", "i30", "i40", "i800", "ix20", "ix35", "ix55", "Kauai", "Kona", "Lafesta", "Matrix", "Nuvis", "Pony", "QarmaQ Concept", "S-Coupe", "S-Coupé", "Scoupe", "Santa Fe", "Santamo", "Sonata", "Starex", "Stellar", "Terracan", "Tiburon", "Trajet", "Tucson", "Veloster", "Veracruz", "IONIQ 5", "IONIQ 6", "Bayon", "Casper"
+      ]
+    },
+      "Infiniti":{
+          "models": [
+              "Q50", "Q60", "QX50", "QX60", "QX80"
+          ]
+      },
+    "Jac Motors": {
+      "models": [
+            "J2", "J3", "J5", "J6", "T6", "T40", "E-JS1", "E-J7",   "iEV20",   "iEV40",   "iEV60",
+          "T5",   "T50",   "T80",  "E10X"     ]
+    },
+      "Jaguar":
+          {"models": [ "E-PACE", "F-PACE", "I-PACE", "F-Type", "XE", "XF", "XJ"]},
+    "Jeep": {
+      "models": [
+        "Cherokee", "Cherokee (KL)", "Cherokee (XJ)", "Commander", "Compass", "Grand Cherokee", "Liberty", "Patriot", "Renegade", "Trailhawk", "Wagoneer", "Wrangler", "Gladiator", "Avenger (2024)"
+      ]
+    },
+      "Kia": {
+          "models": [   "Bongo",  "Borrego"," Cadenza",  "Carens"," Carnival",  "Ceed",  "Cerato"," Clarus", "Concord",   "EV"," Elan",   "Forte",    "Joice",  "K2500",  "KX3",  "Lotze", "Magentis",  "Niro",  "Opirus"," Optima",
+       "K5", "Picanto"," Pregio"," Pride", "Quoris", "Ray"," Retona"," Rio", "Rondo", "Seltos", "Sephia"," Shuma", "Sorento", "Soul", "Spectra", "Sportage",
+  "Stinger", "Stonic", "Telluride", " Mohave", "Towner"," Venga", " Xceed"]
+      },
+      "Lamborghini":
+          {"models": ["Aventador",  "Centenario", "Countach", "Diablo", "Gallardo", "Huracán", "Invencible", "Reventón", "Sian FKP 37", "Urus", "Veneno"]},
+     "Land Rover": {
+          "models": [ "Defender", "Discovery", "Discovery Sport", "Range Rover", "Range Rover Evoque", "Range Rover Sport", "Range Rover Velar"]
+      },
+    "Lexus": {
+          "models": [  "CT", "ES", "GS", "GX", "IS", "LC", "LS", "LX", "NX"," RC", "RX", "SC", "UX", "RZ"]
+      },
+    "Lotus": {
+          "models": ["Elise", "Evora", "Exige", "Emira", "Eletre"]
+      },
+     "Maserati":{
+          "models": [  "Ghibli", "GranCabrio", "GranTurismo", "Levante", "MC20", "Quattroporte", "Grecale", "GranCabrio Folgore", "GranTurismo Folgore"]
+      },
+    "Mazda":{
+       "models": ["2", "3", "6", "CX"," MX"," RX"]
+    }, "McLaren":{
+        "models": ["540C", "570S", "600LT", "620R", "650S"," 720S", " 750S", "Artura", "Elva", "GT", "P1", "Senna", "Solaris GT"]
+      }
+      ,  "Mercedes-Benz":{
+          "models": [ "A-Class", "B-Class","C-Class","CLA","CLS","E-Class", "EQ"," G-Class","GLA","GLB","GLC", "GLE", "GLS", "Maybach", "S-Class", "SL", "SLC","SLK","AMG GT", "EQS", "EQA", "EQB"]
+      } ,  "Mini":{
+          "models": [ "Cooper", "Convertible", "Countryman", "Clubman", "Electric"]
+      },   "Mitsubishi":{
+          "models": [ "ASX", "Eclipse Cross", "L200", "Mirage"," Outlander"," Pajero", " i-Miev"]
+      },   "Nissan":{
+          "models": [ "Almera", "Altima"," Armada", "Ariya"," Frontier"," GT-R"," Juke", "Leaf"," March", "Maxima", "Micra"," Murano"," Navara"," Note"," Pathfinder"," Patrol"," Qashqai", "Rogue"," Sentra"," Skyline", "Terra"," Tiida", "Titan", "Versa"," X-Trail", " Z"]
+      } ,  "Peugeot": {
+      "models": [
+        "5CV", "104", "106", "107", "201", "202", "203", "204", "205", "206", "206 Escapade", "207", "207 Brasil", "207 SW", "207 SW Outdoor", "208", "304", "305", "306", "307", "307 WRC", "308", "308 Hybride HDi", "308 SW Prologue", "309", "403", "404", "405", "406", "407", "408", "504", "505", "508", "604", "605", "607", "806", "807", "905", "907", "908 HDi FAP", "908 RC", "1007", "2008", "3008", "4007", "4008", "5008", "BB1", "Bébé", "Bipper", "Fiat Ducato", "Flux", "Hoggar", "Moovie", "P4", "Partner", "Oxia", "Quadrilette", "RCZ", "Tipo 1", "Tipo 2", "Tipo 3", "Tipo 4", "Tipo 5", "Tipo 6", "Tipo 190", "208", "301 (2013)"
+      ]
+    },
+     "Porsche":{
+      "models": ["911", "718", "Cayenne", "Macan", "Panamera", "Taycan"]
+    },
+   "Ram":{
+     "models": ["1500"," 2500"," 3500", " Dakota"]
+   },
+    "Renault": {
+      "models": [
+        "3", "4CV", "4L", "5", "6", "7", "8", "9", "10", "11", "12", "14", "15/17", "16", "18", "19", "20/30", "21", "25", "Alpine A108", "Alpine A110", "Alpine A310", "Alpine A610", "Alaskan", "Arkana", "Avantime", "Berliet Tramagal", "Captur", "Caravelle", "Clio", "Clio Grandtour Concept", "Colorale", "Dacia Sandero", "Dauphine", "DeZir", "Dacia Tipo", "Duster", "Duster Oroch", "Samsung eMX", "Espace", "Express", "Fluence", "Frégate", "Grand Scénic", "Joaninha", "Juvaquatre", "Kadjar", "Kangoo", "Koleos", "Kwid", "Laguna", "Latitude", "Logan", "Dacia Logan MCV", "Magnum", "Mégane", "Modus", "Motrio", "Nepta", "Ondelios", "Primaquatre", "Samsung QM5", "Samsung QM5 SUV", "Samsung QMX", "Racoon", "KJ", "Monasix", "MT", "NN", "Rodeo", "Safrane", "Sand'Up", "Sandero", "Scala", "Scénic", "Scénic ZEV H2", "Samsung SM3", "Samsung SM5", "Samsung SM7", "Dacia Solenza", "Spider", "Symbol", "Táxis do Marne", "Torino", "Trafic", "Twingo", "Twizy", "Vel Satis", "Voiturette", "Wind", "Z.E.", "Zoe", "Oroch (2023)"
+      ]
+    },
+    "Rolls-Royce":{
+      "models": ["Phantom"," Ghost"," Wraith"," Dawn"," Cullinan"]
+    },
+   "Subaru":{
+          "models": ["BRZ", "Crosstrek","Forester", "Impreza", "Legacy", "Outback", "WRX", "Solterra"]
+      },
+    "Suzuki": {
+          "models": ["Alto",  "Baleno","Brezza"," Celerio",   "Ciaz"," Dzire","Eeco"," Ertiga", "Fronx"," Grand Vitara",
+  "Ignis", "Jimny", "Kizashi", "S-Cross", "Swift", "SX4 S-Cross"," Splash", "Vitara"," Wagon"]
+      },
+  "Tesla": {
+          "models": ["Model 3", "Model S", "Model X", "Model Y", "Cybertruck", "Roadster (2020)"]
+      },
+    "Toyota": {
+      "models": [
+        "4Runner", "86", "88C", "88C-V", "A-BAT", "AE86", "Allion", "Alphard", "Altezza", "Aristo", "Aurion", "Auris", "Auris Touring Sports", "Avalon", "Avensis", "Aygo", "Bandeirante", "Belta", "C-HR", "Camry", "Celica", "Celsior", "Century", "Chaser", "Corolla", "Corolla Levin", "Corona", "Cressida", "Crown", "Cynos", "Dyna", "Estima", "Etios", "FCHV", "Fielder", "FJ Cruiser", "GT-One", "Hiace", "Highlander", "Hilux", "Hilux SW4", "Hybrid-X Concept", "iQ", "Isis", "Ist", "Kluger", "Land Cruiser", "Lexcen", "Mark X Zio", "MR2", "Opa", "Paseo", "Passo", "Picnic", "Pod", "Previa", "Prius", "Prius V", "Prius c", "Prius Plug-In Hybrid", "Ractis", "RAV4", "Sequoia", "Sienna", "Sprinter Trueno", "Stout", "Supra", "Tacoma", "Tarago", "2000GT", "HiAce", "Sera", "TS030", "TS040", "TS050", "Tundra", "Urban Cruiser", "Vellfire", "Venza", "Verso", "Vitz", "Wish", "Yaris"
+      ]
+    }, "Volvo":{
+          "models": ["C40", "EX30", "EX90"," S60","S90"," V60","V90"," XC40",   "XC60" , "XC90"]
+      },
+    "Volkswagen": {
+      "models": [
+        "181", "183", "1600", "Amarok", "Apollo", "Arteon", "Atlas", "Bora", "Bora (China)", "Brasília", "Bus", "Caddy", "Caravelle", "CC", "Citi Golf", "Corrado", "Crafter", "CrossFox", "CrossGolf", "Derby", "E-Up!", "Eos", "Eurovan", "Fox", "Fusca", "Fusca (A5)", "Go!", "Gol", "Golf", "Golf Blue-e-Motion", "Golf MK1", "Golf Mk3", "Golf Variant", "IN", "Iroc", "Jetta", "Jetta Variant", "K 70", "Karmann-Ghia", "Karmann-Ghia TC", "Kombi", "L1", "Lavida", "Logus", "LT", "Lupo", "Microbus", "Milano Taxi", "New Beetle", "Nivus", "Parati", "Passat", "Passat CC", "Passat Variant", "Phaeton", "Plattenwagen", "Pointer", "Polo", "Polo Classic", "Polo G40", "Polo R WRC", "Routan", "Safari", "Santana", "Santana Quantum", "Saveiro", "Scirocco", "Sharan", "SP1", "SP2", "SpaceCross", "SpaceFox", "T-Cross", "T-Roc", "Taro", "Taro II", "Tex", "Thing", "Taigun", "Tiguan", "TL", "Touareg", "Touran", "Transporter", "Trekker", "Typ 3", "Typ 4", "Type 147", "Up!", "Vanagon", "Variant II", "Virtus", "Volksbus", "Voyage", "XL1"
+    ]
+  }
+}

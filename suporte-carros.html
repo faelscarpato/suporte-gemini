@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suporte e Pesquisa de Carros com Gemini</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo-container">
+                <a href="index.html">
+                    <img src="img/logo.png" alt="Logotipo da Central de Suporte" class="logo">
+                </a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Suporte - Motos</a></li>
+                    <li><a href="suporte-carros.html">Suporte - Carros</a></li>
+                    <li><a href="fipe.html">Tabela FIPE</a></li>
+
+
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="pesquisa">
+            <label for="fabricante">Fabricante:</label>
+            <select id="fabricante" name="fabricante">
+                <option value="">Selecione</option>
+                <!-- As opções de fabricante serão preenchidas com JavaScript -->
+            </select>
+
+            <label for="modelo">Modelo:</label>
+            <select id="modelo" name="modelo">
+                <option value="">Selecione</option>
+                <!-- As opções de modelo serão preenchidas com JavaScript -->
+            </select>
+
+            <label for="ano">Ano:</label>
+            <select id="ano" name="ano">
+                <option value="">Selecione</option>
+                <!-- As opções de ano serão preenchidas com JavaScript -->
+            </select>
+
+            <label for="assunto">Assunto:</label>
+            <select id="assunto" name="assunto">
+                <option value="">Selecione</option>
+                <option value="defeito">Defeito</option>
+                <option value="especificacao">Especificação</option>
+                <option value="codigo">Código</option>
+                <option value="peca">Peça</option>
+                <option value="solucao">Solução</option>
+                <option value="manutencao">Manutenção</option>
+                <option value="revisao">Revisão</option>
+                <option value="dica">Dica</option>
+                <option value="comparativo">Comparativo</option>
+                <option value="preco">Preço</option>
+            </select>
+
+            <label for="pergunta">Digite sua pergunta:</label>
+            <input type="text" id="pergunta" name="pergunta">
+
+            <button id="enviar">Pesquisar</button>
+        </section>
+
+        <section id="resultados">
+            <h2>Resultados da Pesquisa</h2>
+            <div id="resposta-gemini">
+                <!-- Resposta da Gemini aparecerá aqui -->
+            </div>
+            <div id="documentos-relacionados">
+                <!-- Lista de documentos relacionados -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Central de Suporte</p>
+    </footer>
+
+    <script src="js/gemini_api.js"></script>
+    <script src="js/suporte-carros.js"></script>
+</body>
+</html>

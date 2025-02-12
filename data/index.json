@@ -1,0 +1,99 @@
+[
+    {
+        "id": "1",
+        "titulo": "YAMAHA Neo 125 2017 até 2020",
+        "palavras_chave": ["NEO", "125", "2017", "2018", "2019", "2020", "YAMAHA", "MANUAL", "DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+        "arquivo": "documentos/NEO-125-UBS-2017.pdf"
+    },
+    {
+        "id": "2",
+        "titulo": "HONDA BIZ 110i 2020",
+        "palavras_chave": ["HONDA", "BIZ", "110i", "2020", "Manual", "DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+        "arquivo": "documentos/BIZ 110i (2020) D2203-MAN-1223_WEB.pdf"
+    },
+    {
+         "id": "3",
+        "titulo": "HONDA CG 160 FAN-CG 160 TITAN 2019",
+        "palavras_chave": ["HONDA", "CG", "160", "FAN-CG", "160", "TITAN", "2019", "Manual", "DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+        "arquivo": "documentos/CG 160 FAN-CG 160 TITAN (2019) D2203-MAN-1185_WEB.pdf"
+     },
+     {
+        "id": "4",
+       "titulo": "HONDA XRE 300 2017",
+       "palavras_chave": ["HONDA", "XRE", "300", "160", "Manual", "DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+       "arquivo": "documentos/XRE300 (2017) D2203-MAN-1078 WEB.pdf"
+    },
+    {
+        "id": "5",
+       "titulo": "HONDA POP110i 2017",
+       "palavras_chave": ["HONDA", "POP", "110i", "2017", "Manual", "DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+       "arquivo": "documentos/POP110i (2017) D2203-MAN-1073 Completo.pdf"
+    },
+    {
+        "id": "6",
+       "titulo": "HONDA PCX 150 ABS 2020 até 2023",
+       "palavras_chave": ["HONDA", "pcx", "150", "ABS", "2020", "2021", "2022", "2023", "Manual","DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+       "arquivo": "documentos/PCX 150 ABS (2020) D2203-MAN-1226_WEB_0.pdf"
+    },
+    {
+        "id": "7",
+       "titulo": "HONDA nxr160 BROS ESDD 2018",
+       "palavras_chave": ["HONDA", "nxr160", "BROS", "ESDD", "2018", "Manual","DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+       "arquivo": "documentos/NXR160 BROS ESDD (2018) D2203-MAN-1087_WEB.pdf"
+          },
+    {
+        "id": "8",
+       "titulo": "YAMAHA FAZER 250 ABS 2020",
+       "palavras_chave": ["YAMAHA", "FAZER", "250", "ABS", "2020", "Manual","DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+       "arquivo": "documentos/FAZER-250-ABS-2020.pdf"
+    },
+    {
+        "id": "9",
+       "titulo": "YAMAHA FACTOR 150 UBS 2020",
+       "palavras_chave": ["YAMAHA", "FACTOR", "150", "UBS", "2020", "Manual","DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+       "arquivo": "documentos/FACTOR-150-UBS_2020.pdf"
+    },
+    {
+        "id": "10",
+       "titulo": "YAMAHA CB 300R 2015",
+       "palavras_chave": ["YAMAHA", "CB", "300R", "2015", "Manual","DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+       "arquivo": "documentos/CB 300R 2015.pdf"
+    },
+    {
+        "id": "11",
+       "titulo": "YAMAHA MT 09 2015",
+       "palavras_chave": ["YAMAHA", "MT", "09", "2015", "Manual","DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+       "arquivo": "documentos/MT09(ABS).1ED.B50.W0.pdf"
+    },
+    {
+        "id": "12",
+       "titulo": "YAMAHA XT 660R 2014",
+       "palavras_chave": ["YAMAHA", "XT", "660R", "2014", "Manual","DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+       "arquivo": "documentos/XT660-2014.pdf"
+    },
+    {
+        "id": "13",
+       "titulo": "YAMAHA MT 03 2015",
+       "palavras_chave": ["YAMAHA", "MT", "03", "2015", "Manual","DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+       "arquivo": "documentos/MT03-ABS.2ED.B7W.W0.pdf"
+    },
+{   
+    "id": "14",
+    "titulo": "YAMAHA YZF R3 2016",
+    "palavras_chave": ["YAMAHA", "YZF", "R3", "2016", "Manual","DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+    "arquivo": "documentos/YZF-R3-16_(B011).pdf"
+},
+{
+    "id": "15",
+    "titulo": "YAMAHA MT 07 2015",
+    "palavras_chave": ["YAMAHA", "MT", "07", "2015", "Manual","DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+    "arquivo": "documentos/MT-07-STD-2016.pdf"
+},
+{
+    "id": "16",
+    "titulo": "YAMAHA XTZ 125 E 2015",
+    "palavras_chave": ["YAMAHA", "XTZ", "125", "E", "2015", "Manual","DEFEITO", "SOLUÇÃO", "PROBLEMAS", "MANUTENÇÃO", "REVISÃO", "GARANTIA", "TROCA", "REPARO", "SERVIÇO", "CONCESSIONÁRIA", "ASSISTÊNCIA", "TÉCNICA", "RECALL", "REVISÃO", "MANUAL", "DO", "PROPRIETÁRIO", "MANUAL", "DE", "SERVIÇO", "MANUAL", "DE", "REPARO", "MANUAL", "DE", "MANUTENÇÃO", "MANUAL", "DE", "REVISÃO", "MANUAL", "DE", "TROCA","ÓLEO"],
+    "arquivo": "documentos/XTZ-125-E-2015.pdf"
+}
+
+]

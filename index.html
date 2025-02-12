@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suporte e Pesquisa com Gemini</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo-container">
+                <a href="index.html">
+                    <img src="img/logo.png" alt="Logotipo da Central de Suporte" class="logo">
+                </a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Suporte - Motos</a></li>
+                    <li><a href="suporte-carros.html">Suporte - Carros</a></li>
+                    <li><a href="fipe.html">Tabela FIPE</a></li>
+
+
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="pesquisa">
+            <label for="fabricante">Fabricante:</label>
+            <select id="fabricante" name="fabricante">
+                <option value="">Selecione</option>
+                <option value="honda">Honda</option>
+                <option value="yamaha">Yamaha</option>
+                <option value="suzuki">Suzuki</option>
+                <option value="kawasaki">Kawasaki</option>
+                <option value="bmw">BMW</option>
+                <option value="ducati">Ducati</option>
+                <option value="ktm">KTM</option>
+                <option value="aprilia">Aprilia</option>
+                <option value="indian">Indian</option>
+
+            </select>
+
+            <label for="ano">Ano:</label>
+            <select id="ano" name="ano">
+                <option value="">Selecione</option>
+                <option value="2015">2015</option>
+                <option value="2016">2016</option>
+                <option value="2017">2017</option>
+                <option value="2018">2018</option>
+                <option value="2019">2019</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                <option value="2022">2022</option>
+                <option value="2023">2023</option>
+                <option value="2024">2024</option>
+                <option value="2025">2025</option>
+            </select>
+
+            <label for="modelo">Modelo:</label>
+            <select id="modelo" name="modelo">
+                <option value="">Selecione</option>
+                <!-- As opções de modelo serão preenchidas com JavaScript -->
+            </select>
+
+            <label for="assunto">Assunto:</label>
+            <select id="assunto" name="assunto">
+                <option value="">Selecione</option>
+                <option value="defeito">Defeito</option>
+                <option value="especificacao">Especificação</option>
+                <option value="codigo">Código</option>
+                <option value="peca">Peça</option>
+                <option value="solucao">Solução</option>
+                <option value="manutencao">Manutenção</option>
+                <option value="revisao">Revisão</option>
+                <option value="dica">Dica</option>
+                <option value="comparativo">Comparativo</option>
+                <option value="preco">Preço</option>
+            </select>
+
+            <label for="pergunta">Digite sua pergunta:</label>
+            <P class="exemplo">Selecione Especificação e coloque abaixo "completa"</P>
+            <input type="text" id="pergunta" name="pergunta" placeholder="Exemplo: Qual o óleo?">
+
+            <button id="enviar">Pesquisar</button>
+        </section>
+
+        <section id="resultados">
+            <h2>Resultados da Pesquisa</h2>
+            <div id="resposta-gemini">
+                <!-- Resposta da Gemini aparecerá aqui -->
+            </div>
+            <div id="documentos-relacionados">
+                <!-- Lista de documentos relacionados -->
+            </div>
+       
+
+        <!-- Nova seção para exibir o PDF -->
+        <section id="visualizador-pdf" style="display:none;">  <!-- Oculta a seção inicialmente -->
+            <h2>Visualizador de PDF</h2>
+            <canvas id="pdf-canvas"></canvas>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Central de Suporte</p>
+    </footer>
+
+
+      <!-- Inclua os scripts do pdf.js -->
+      <script src="lib/pdfjs/build/pdf.js"></script>
+      <script src="lib/pdfjs/web/pdf_viewer.js"></script>
+    <script src="js/gemini_api.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

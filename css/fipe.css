@@ -1,0 +1,88 @@
+/* css/fipe.css */
+
+/* Geral */
+body {
+    font-family: 'Roboto', sans-serif; /* Use a mesma fonte do site principal */
+    background-color: var(--cor-principal); /* Use a cor de fundo principal */
+    color: var(--cor-texto-principal); /* Use a cor do texto principal */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: var(--cor-secundaria);
+    padding: 1em 0;
+    text-align: center;
+    border-bottom: 1px solid var(--cor-detalhe);
+}
+
+h1, h2, h3 {
+    color: var(--cor-texto-principal);
+}
+
+/* Seção de Consulta */
+#fipe-consulta {
+    padding: 20px;
+    background-color: var(--cor-secundaria);
+    border-radius: 8px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#fipe-consulta label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 500;
+    color: var(--cor-texto-secundaria);
+}
+
+#fipe-consulta select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid var(--cor-detalhe);
+    border-radius: 4px;
+    background-color: var(--cor-principal);
+    color: var(--cor-texto-secundaria);
+    transition: border-color 0.3s ease;
+}
+
+#fipe-consulta select:focus {
+    border-color: var(--cor-accent);
+    outline: none;
+}
+
+#fipe-consulta button {
+    background-color: var(--cor-accent);
+    color: var(--cor-principal);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+#fipe-consulta button:hover {
+    background-color: var(--cor-accent-hover);
+}
+
+/* Seção de Resultados */
+#fipe-resultados {
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid var(--cor-detalhe);
+    border-radius: 8px;
+    background-color: var(--cor-secundaria);
+    display: none; /* Oculta por padrão, exibido pelo JavaScript */
+}
+
+#fipe-detalhes p {
+    color: var(--cor-texto-secundaria);
+    margin-bottom: 8px;
+}
+
+#fipe-detalhes strong {
+    color: var(--cor-texto-principal);
+    font-weight: 600;
+}
